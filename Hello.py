@@ -11,7 +11,7 @@ lesDonneesDesComptes = {
     'usernames': {
         'utilisateur': {
             'name': 'utilisateur',
-            'password': 'MDP',
+            'password': 'utilisateurMDP',
             'email': 'utilisateur@gmail.com',
             'failed_login_attemps': 0,  # Sera géré automatiquement
             'logged_in': False,          # Sera géré automatiquement
